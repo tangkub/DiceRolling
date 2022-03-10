@@ -1,7 +1,7 @@
-# Dice rolling project
+# Dice Rolling Project
 
 ## Description
-This project is started for learning and practicing Python. 
+This project is started for learning and practicing Python. \
 Use this project to randomly generate the number from 1 to 6.
 Displaying the number by dice image.
 
@@ -17,7 +17,7 @@ Run as below with your cmd on project directory.
 python main.py
 ```
 
-## Key Learning points
+## Key Learning
 - Basic GUI with tkinter
 - Usage of random.choice
 - Uasge of PIL in the way that open the image associated with tkinter
